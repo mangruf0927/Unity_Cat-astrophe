@@ -5,6 +5,7 @@
 Unity3D 기반의 **TPS 슈팅 액션 게임**으로  
 작아진 주인공이 바이러스 X의 확산을 막기 위해 고양이를 추격하는 대소동을 그린 팀 프로젝트입니다.
 
+유니티 버전 : Unity (2021.3.24f1)
 
 [🎮 시연 영상](https://www.youtube.com/watch?v=XNLD89x3u7E)  
 [📄 개발 문서](https://drive.google.com/file/d/1r8X5Gl2Zx7X5S_lwIKNB5P6A7fq9us6-/view?usp=drive_link)
