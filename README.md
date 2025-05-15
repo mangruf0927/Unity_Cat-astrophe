@@ -1,4 +1,4 @@
-# 🐱 Cat_tastrophe:Bathtime
+# 🐱 Cat_astrophe:Bathtime
 
 <img width="631" alt="스크린샷 2025-05-15 오후 2 43 34" src="https://github.com/user-attachments/assets/42708686-7978-4f0b-aec3-f0c455423a5e" />
 
